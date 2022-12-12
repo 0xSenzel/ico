@@ -4,27 +4,20 @@ This repo contains coursework project from [LearnWeb3](https://learnweb3.io/) co
 
 ## Project Info
 
-NFT Collection allows whitelisted address from [Whitelist-Dapp](https://0xsenzel-whitelist-dapp.vercel.app/) to mint our NFT collection. The Dapp will be able to mint 20 different NFT based on the sequence of minter.
+ICO Dapp provides a platform for launching of ERC20 token by letting users with minted NFT from [NFT Collection](https://0xsenzel-nft-collection.vercel.app/) to mint 10 token for each NFT (free). For users that does not own the NFT, they will require 0.001 ether for 1 token.
 
 ## Project Demo
 
 <figure>
 <img src="./my-app/public/demo1.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.1 - Home Page When Login By Non-Owner Address Before Starting of Presale</p>
+<p align="center">Fig.1 - Eligible User's Login Page To Claim Token</p>
 </figure>
 
 <br/>
 
 <figure>
 <img src="./my-app/public/demo2.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.2 - Home Page When Login By Owner Address Before Starting of Presale</p>
-</figure>
-
-<br/>
-
-<figure>
-<img src="./my-app/public/demo3.PNG" alt="demo1" style="width:100%">
-<p align="center">Fig.3 - Home Page After Presale Started</p>
+<p align="center">Fig.2 - Non-Eligible User's Login Page to Mint Token</p>
 </figure>
 
 ## Project Setup
